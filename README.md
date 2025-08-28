@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- 🌌 Banner Futurista Azul -->
-<img src="https://i.imgur.com/o7b6b9D.gif" width="100%"/>
-
 # 💻 Luiz Fernando Maia 💻  
 **luizfmaia10-dev**  
 
