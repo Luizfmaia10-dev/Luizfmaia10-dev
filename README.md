@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Olá, eu sou Luiz Fernando Maia 👋</h1>
 
 <h3 align="center">Desenvolvedor em formação | Engenharia de Software - PUC Minas</h3>
@@ -57,4 +56,3 @@ Continuar evoluindo como desenvolvedor, participando de projetos cada vez mais d
 <p align="center">
 💡 "O futuro pertence a quem transforma conhecimento em construção."
 </p>
-```
