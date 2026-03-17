@@ -1,47 +1,60 @@
-<div align="center">
+```md
+<h1 align="center">Olá, eu sou Luiz Fernando Maia 👋</h1>
 
-# 💻 Luiz Fernando Maia 💻  
-**luizfmaia10-dev**  
-
-🎓 Estudante de **Engenharia de Software na PUCMinas**  
-⚡ Focado em **resolver problemas reais com tecnologia**  
-🚀 Em busca de evolução constante no mundo do desenvolvimento  
+<h3 align="center">Desenvolvedor em formação | Engenharia de Software - PUC Minas</h3>
 
 ---
 
-### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-Luiz%20Fernando%20Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-maia-4a1919359/)  
-
----
-
-### 🛠️ Tecnologias
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luizfmaia10-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfmaia10-dev&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+Sou estudante de Engenharia de Software na PUC Minas, apaixonado por tecnologia e desenvolvimento de soluções que geram impacto real.  
+Atualmente venho construindo minha base em programação, desenvolvimento web e lógica computacional, sempre buscando evoluir tecnicamente e profissionalmente.
+</p>
+
+<p align="center">
+Tenho interesse em criar projetos organizados, funcionais e com propósito, utilizando a tecnologia como ferramenta para resolver problemas reais.
 </p>
 
 ---
 
-### ⚡ Atividade no GitHub
-![GitHub Streak](https://streak-stats.demolab.com/?user=Luizfmaia10-dev&theme=tokyonight&hide_border=false)
+## 📌 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/luiz-maia-4a1919359/
+- 📍 Belo Horizonte - MG
 
 ---
 
-### 🎬 Estilo
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Fala+aí!+Eu+sou+o+Luiz+👋;Estudante+de+Engenharia+de+Software+💻;Construindo+meu+futuro+com+código+🚀;Tecnologia+é+minha+missão+⚡)
+## 🚀 Tecnologias
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,git" />
+</p>
 
 ---
 
-💡 *"O futuro pertence a quem transforma código em soluções."* 💡  
+## 📊 Estatísticas GitHub
 
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizfmaia10-dev&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfmaia10-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luizfmaia10-dev&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, participando de projetos cada vez mais desafiadores e transformando conhecimento em soluções práticas.
+
+---
+
+<p align="center">
+💡 "O futuro pertence a quem transforma conhecimento em construção."
+</p>
+```
