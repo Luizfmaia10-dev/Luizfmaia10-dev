@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Luiz+Fernando+Maia+👋;Estudante+de+Engenharia+de+Software+💻;Construindo+soluções+com+tecnologia+🚀;Sempre+evoluindo+como+desenvolvedor+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Luiz+Fernando+Maia+👋;Estudante+de+Engenharia+de+Software+💻;Construindo+soluções+com+tecnologia+🚀;Sempre+evoluindo+como+desenvolvedor+⚡" />
 
 ---
 
@@ -9,12 +8,8 @@
 ### **luizfmaia10-dev**
 
 🎓 Estudante de **Engenharia de Software - PUC Minas**  
-⚡ Apaixonado por desenvolvimento e resolução de problemas  
-🚀 Construindo projetos e evoluindo constantemente  
-
----
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luizfmaia10-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+⚡ Focado em desenvolvimento e resolução de problemas  
+🚀 Construindo meu espaço no mundo da tecnologia  
 
 ---
 
@@ -39,27 +34,29 @@
 
 ---
 
-## ⚡ Sequência de contribuição
+## ⚡ Sequência de contribuições
 
-<img src="https://streak-stats.demolab.com?user=Luizfmaia10-dev&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=Luizfmaia10-dev&theme=tokyonight" />
 
 ---
 
-## 📈 Atividade visual
+## 🏆 Conquistas
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfmaia10-dev&theme=tokyo-night" />
+<img src="https://github-profile-trophy.vercel.app/?username=Luizfmaia10-dev&theme=tokyonight&no-frame=true&margin-w=10" />
+
+---
+
+## 📈 Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfmaia10-dev&theme=github-dark" />
 
 ---
 
 ## 🎯 Sobre mim
 
-💡 Busco transformar aprendizado em projetos reais  
-💡 Evolução constante em lógica, programação e desenvolvimento  
-💡 Interesse em construir soluções úteis e bem estruturadas  
-
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+💡 Sempre buscando evoluir tecnicamente  
+💡 Interesse em projetos reais e bem estruturados  
+💡 Tecnologia como ferramenta para construir soluções  
 
 ---
 
