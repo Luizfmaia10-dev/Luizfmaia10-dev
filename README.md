@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Luiz+Fernando+Maia+👋;Estudante+de+Engenharia+de+Software+💻;Construindo+soluções+com+tecnologia+🚀;Sempre+evoluindo+como+desenvolvedor+⚡" />
@@ -42,7 +43,13 @@
 
 ## 🏆 Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luizfmaia10-dev&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Luizfmaia10-dev&theme=algolia&no-frame=true&row=1&column=6" />
+
+---
+
+## 👀 Visualizações do perfil
+
+<img src="https://komarev.com/ghpvc/?username=Luizfmaia10-dev&label=Visualizações&color=0e75b6&style=for-the-badge" />
 
 ---
 
