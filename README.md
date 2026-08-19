@@ -41,24 +41,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luizfmaia10-dev&theme=algolia&no-frame=true&row=1&column=6" />
-
----
-
-## 👀 Visualizações do perfil
-
-<img src="https://komarev.com/ghpvc/?username=Luizfmaia10-dev&label=Visualizações&color=0e75b6&style=for-the-badge" />
-
----
-
-## 📈 Atividade
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfmaia10-dev&theme=github-dark" />
-
----
-
 ## 🎯 Sobre mim
 
 💡 Sempre buscando evoluir tecnicamente  
