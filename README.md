@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C2FF,100:414AFA&text=LUIZ%20FERNANDO%20MAIA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Developer&descAlignY=60&descSize=18" width="100%">
@@ -51,6 +50,8 @@ Meu foco é transformar problemas em soluções através do desenvolvimento de s
 
 # 🧠 Atualmente
 
+<div align="center">
+
 ```text
 ╭────────────────────────────────────────────────────╮
 │                                                    │
@@ -69,7 +70,9 @@ Meu foco é transformar problemas em soluções através do desenvolvimento de s
 │   🧠 Engenharia de Software                       │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
-````
+```
+
+</div>
 
 ---
 
@@ -77,27 +80,27 @@ Meu foco é transformar problemas em soluções através do desenvolvimento de s
 
 <div align="center">
 
-`IDEA`
+### `IDEA`
 
 ↓
 
-`ANALYZE`
+### `ANALYZE`
 
 ↓
 
-`BUILD`
+### `BUILD`
 
 ↓
 
-`DEBUG`
+### `DEBUG`
 
 ↓
 
-`IMPROVE`
+### `IMPROVE`
 
 ↓
 
-`SHIP 🚀`
+### `SHIP 🚀`
 
 </div>
 
@@ -210,4 +213,3 @@ Meus projetos refletem minha evolução prática em desenvolvimento de software,
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414AFA,100:00C2FF&height=120&section=footer" width="100%">
-```
