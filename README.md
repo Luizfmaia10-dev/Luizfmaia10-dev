@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="assets/animation/luiz_drawing.gif" width="500">
-
 
 
 
