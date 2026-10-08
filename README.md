@@ -32,7 +32,7 @@
 
 > **Transformando aprendizado em código e código em soluções.**
 
-Sou **Luiz Fernando Maia**, estudante de **Engenharia de Software na PUC Minas**, atualmente no 3º semestre.
+Sou **Luiz Fernando Maia**, estudante de **Engenharia de Software na PUC Minas**, atualmente no 4º semestre.
 
 Meu foco é transformar problemas em soluções através do desenvolvimento de software, explorando tecnologias, inteligência artificial e produtos digitais.
 
