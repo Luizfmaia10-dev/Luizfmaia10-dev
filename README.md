@@ -7,8 +7,6 @@
 <img src="assets/animation/luiz_drawing.gif" width="500">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+Luiz+Fernando+Maia+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%92%BB;Java+%7C+Spring+%7C+Python+%7C+C+%7C+C%2B%2B;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80;Sempre+aprendendo.+Sempre+evoluindo.+%E2%9A%A1">
-
 
 
 <a href="https://github.com/Luizfmaia10-dev">
